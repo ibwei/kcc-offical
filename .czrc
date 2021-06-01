@@ -52,11 +52,11 @@
     },
     "chore": {
       "description": "非src或者测试文件的更新",
-      "chore": "非 src 或者 测试文件的更新"
+      "title": "chore"
     },
     "revert": {
       "description": "回到上一个版本",
-      "revert": "回溯"
+      "title": "revert"
     }
   }
 }
